@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=220&section=header&text=ALEJO-SQ&fontSize=85&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20CEO%20%40%20Factory%20Engineering&descSize=18&descAlign=55&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=220&section=header&text=ALEJO-SQ&fontSize=85&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20CMOCS%20%40%20Factory%20Engineering%20Logistics%20SAS&descSize=17&descAlign=55&descAlignY=65"/>
 
 <div align="center">
 
@@ -7,8 +7,9 @@
 <br/>
 
 <a href="https://factoryil.com">
-  <img src="https://img.shields.io/badge/🌐_Factory_Engineering-factoryil.com-3B82F6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Factory_Engineering_Logistics_SAS-factoryil.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/🚚_Proyecto_Actual-CMOCS-10B981?style=for-the-badge"/>
 <a href="mailto:contacto@factoryil.com">
   <img src="https://img.shields.io/badge/📧_Email-contacto%40factoryil.com-EA4335?style=for-the-badge"/>
 </a>
@@ -26,16 +27,25 @@
 const alejoSQ = {
   nombre: "ALEJO-SQ",
   rol: "Full Stack Developer",
-  empresa: "Factory Engineering Logistics",
+  proyectoActual: "CMOCS",
+  empresaActual: "Factory Engineering Logistics SAS",
+  plataforma: "https://factoryil.com",
   ubicacion: "Barranquilla, Colombia 🇨🇴",
-  mision: "Convertir problemas de logística en software que funciona",
+  mision: "Convertir problemas de logística e ingeniería en software que escala",
   stack: ["React", "PHP", "Laravel", "MySQL", "Docker"],
-  estado: "🟢 Disponible para proyectos épicos",
+  empresas: [
+    "Business Green",
+    "Factory Integrated Logistics",
+    "Factory Ingeniería y Logística",
+    "Factory Engineering Logistics SAS",
+  ],
+  estado: "🟢 Desarrollando CMOCS",
   cafe: true, // siempre
 };
 ```
 
-> 💡 **Dato:** Lidero el desarrollo de **CMOCS** — una plataforma completa para administrar flotas, conductores, talleres, GPS, nómina y facturación con integración **SIIGO**. Si mueve ruedas o genera datos, probablemente ya lo estoy digitalizando.
+> 💡 **Ahora mismo** desarrollo **CMOCS** junto a **[Factory Engineering Logistics SAS](https://factoryil.com)** — plataforma empresarial para flotas, conductores, talleres, GPS, nómina, conciliaciones y facturación con integración **SIIGO**.  
+> 🌐 Conoce la plataforma: **[factoryil.com](https://factoryil.com)**
 
 <br/>
 
@@ -49,8 +59,8 @@ const alejoSQ = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚚 Construyendo **CMOCS**
-El cerebro digital de las flotas empresariales.
+### 🚚 Proyecto **CMOCS**
+Desarrollando la plataforma junto a **Factory Engineering Logistics SAS**.
 
 ```
 🚗 Vehículos      📄 Documentos
@@ -59,11 +69,13 @@ El cerebro digital de las flotas empresariales.
 📊 Dashboards     🧾 Facturación SIIGO
 ```
 
+🔗 **Plataforma:** [factoryil.com](https://factoryil.com)
+
 </td>
 <td width="50%" valign="top">
 
-### 🏗 **Factory Engineering**
-Software para industrias que no paran.
+### 🏗 **Factory Engineering Logistics SAS**
+Software empresarial para industrias que no paran.
 
 ```
 ⚙️  Ingeniería
@@ -71,11 +83,33 @@ Software para industrias que no paran.
 🤖 Automatización
 🔩 Mantenimiento
 📁 Control Documental
+🚚 Administración de Flotas
 ```
+
+🌐 **[factoryil.com](https://factoryil.com)**
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+---
+
+<br/>
+
+## 🏢 Trayectoria empresarial
+
+He construido soluciones de software para distintas empresas del sector logístico e industrial:
+
+| Empresa | Rol / Enfoque |
+|:--------|:--------------|
+| 🌿 **Business Green** | Desarrollo de soluciones empresariales |
+| 🚛 **Factory Integrated Logistics** | Software para logística integrada |
+| ⚙️ **Factory Ingeniería y Logística** | Plataformas de ingeniería y operaciones |
+| 🏭 **Factory Engineering Logistics SAS** | **Proyecto actual — CMOCS** · [factoryil.com](https://factoryil.com) |
+
+> Actualmente mi foco está en **CMOCS** con **Factory Engineering Logistics SAS**, llevando la gestión de flotas y operaciones logísticas al siguiente nivel.
 
 <br/>
 
@@ -152,12 +186,14 @@ Software para industrias que no paran.
 
 ## 🗂️ Proyectos que me representan
 
-| Proyecto | Descripción | Highlights |
-|:---------|:------------|:-----------|
-| 🚚 **CMOCS** | Gestión integral de flotas | GPS · SIIGO · OT · Dashboard |
-| 🌎 **Factory Engineering** | Software empresarial multi-industria | Logística · Ingeniería |
-| 📡 **GPS Platform** | Monitoreo satelital en tiempo real | Tracking · Alertas |
-| 📊 **Enterprise Dashboard** | Métricas y KPIs en vivo | React · APIs |
+| Proyecto | Empresa | Descripción |
+|:---------|:--------|:------------|
+| 🚚 **CMOCS** | Factory Engineering Logistics SAS | Gestión integral de flotas · [factoryil.com](https://factoryil.com) |
+| 🌿 **Business Green** | Business Green | Soluciones empresariales |
+| 🚛 **Factory Integrated Logistics** | Factory Integrated Logistics | Logística integrada |
+| ⚙️ **Factory Ing. y Logística** | Factory Ingeniería y Logística | Ingeniería y operaciones |
+| 📡 **GPS Platform** | Multi-empresa | Monitoreo satelital en tiempo real |
+| 📊 **Enterprise Dashboard** | Multi-empresa | Métricas y KPIs en vivo |
 
 <br/>
 
@@ -170,7 +206,7 @@ Software para industrias que no paran.
 <div align="center">
 
 <a href="https://factoryil.com">
-  <img src="https://img.shields.io/badge/Website-factoryil.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Factory_Engineering_Logistics_SAS-factoryil.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="mailto:contacto@factoryil.com">
   <img src="https://img.shields.io/badge/Email-contacto%40factoryil.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
