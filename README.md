@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Website-Factory%20Engineering-blue?style=for-the-badge&logo=googlechrome">
   </a>
 
-  <img src="https://img.shields.io/github/followers/ALE02011?style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/alejo234506?style=for-the-badge">
 
-  <img src="https://komarev.com/ghpvc/?username=ALE02011&style=for-the-badge&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=alejo234506&style=for-the-badge&color=blue">
 
 </p>
 
@@ -85,9 +85,9 @@ Software empresarial para:
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ALE02011&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alejo234506&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALE02011&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejo234506&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -97,7 +97,7 @@ Software empresarial para:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ALE02011&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alejo234506&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,7 +107,7 @@ Software empresarial para:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALE02011&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alejo234506&theme=react-dark"/>
 
 </p>
 
