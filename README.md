@@ -29,6 +29,7 @@
 const alejo = {
   rol: "Full Stack Developer",
   ubicacion: "Barranquilla, Colombia 🇨🇴",
+  estudios: "Ingeniería Mecatrónica · 7.º semestre 🤖",
   trabajoActual: "CMOCS @ Factory Engineering Logistics SAS",
   roles: ["Desarrollador @ CMOCS", "Director y desarrollador @ Super Mandao"],
   construyo: ["Gestión de flotas", "GPS y rastreo", "Talleres", "Nómina", "Integración SIIGO"],
@@ -38,6 +39,7 @@ const alejo = {
   devops: ["Docker", "Vercel", "Linux", "Git"],
 };
 ```
+🎓 Estudio **Ingeniería Mecatrónica** (7.º semestre): uno el software con la electrónica, el control y la automatización.<br/>
 
 🔭 Desarrollo **CMOCS**, la plataforma de **Factory Engineering Logistics SAS** para gestión de flotas, GPS, talleres, nómina e integración contable con SIIGO.<br/>
 🏢 He trabajado con **Business Green**, **Factory Integrated Logistics**, **Factory Ingeniería y Logística** y **Factory Engineering Logistics SAS** *(actual)*.<br/>
