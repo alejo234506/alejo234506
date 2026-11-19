@@ -130,6 +130,19 @@ Organizador semanal con notas adhesivas sobre corcho: progreso, filtros, selecci
 
 ---
 
+## 🐍 Mi actividad
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejo234506/alejo234506/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejo234506/alejo234506/output/github-snake.svg"/>
+  <img alt="Serpiente comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/alejo234506/alejo234506/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+---
 
 <div align="center">
 
