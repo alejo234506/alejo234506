@@ -10,6 +10,7 @@
 <a href="https://factoryil.com"><img src="https://img.shields.io/badge/factoryil.com-Factory_IL-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://cmocs.co"><img src="https://img.shields.io/badge/cmocs.co-CMOCS-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://supermandao.com"><img src="https://img.shields.io/badge/supermandao.com-Super_Mandao-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://ceconciu.com"><img src="https://img.shields.io/badge/ceconciu.com-CECONCIU-10B981?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <br/>
 <a href="https://github.com/FACTORY-ENGINEERING-LOGISITICS"><img src="https://img.shields.io/badge/GitHub_Org-Factory_Engineering-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:contacto@factoryil.com"><img src="https://img.shields.io/badge/Email-contacto%40factoryil.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -29,6 +30,7 @@ const alejo = {
   rol: "Full Stack Developer",
   ubicacion: "Barranquilla, Colombia 🇨🇴",
   trabajoActual: "CMOCS @ Factory Engineering Logistics SAS",
+  roles: ["Desarrollador @ CMOCS", "Director y desarrollador @ Super Mandao"],
   construyo: ["Gestión de flotas", "GPS y rastreo", "Talleres", "Nómina", "Integración SIIGO"],
   frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
   backend: ["PHP", "Laravel", "Node.js", "Hono", "API REST"],
@@ -50,7 +52,8 @@ const alejo = {
 | 🚛 **CMOCS** | [cmocs.co](https://cmocs.co) | Plataforma de gestión de flotas y maquinaria: GPS, talleres, nómina e integración SIIGO |
 | 🏗️ **Factory EL** | [factoryel.co](https://factoryel.co) | Factory Engineering Logistics SAS: ingeniería y logística desde Barranquilla |
 | 🛢️ **Factory IL** | [factoryil.com](https://factoryil.com) | Factory Integrated Logistics: ingeniería y logística en Puerto Gaitán, Meta |
-| 🛒 **Super Mandao** | [supermandao.com](https://supermandao.com) | Próximamente en Barranquilla |
+| 🛒 **Super Mandao** | [supermandao.com](https://supermandao.com) | **Director y desarrollador**: plataforma que llega muy pronto a Barranquilla |
+| 🤝 **CECONCIU** | [ceconciu.com](https://ceconciu.com) | Fundación Centro de Concertación y Conciliación Ciudadana, Puerto Gaitán |
 | 🐙 **Organización GitHub** | [FACTORY-ENGINEERING-LOGISITICS](https://github.com/FACTORY-ENGINEERING-LOGISITICS) | Repositorios de Factory Engineering |
 
 ---
