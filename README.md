@@ -76,14 +76,14 @@ const alejo = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏡 [Casa Taty](https://github.com/alejo234506/lacasa_de_taty)
-<a href="https://lacasa-de-taty-six.vercel.app"><img src="https://raw.githubusercontent.com/alejo234506/lacasa_de_taty/main/docs/preview.png" alt="Casa Taty"/></a>
+### 🏡 [Casa Taty](https://lacasa-de-taty-six.vercel.app)
+<a href="https://lacasa-de-taty-six.vercel.app"><img src="assets/casa-taty.png" alt="Casa Taty"/></a>
 
 Landing + **panel administrativo** para un alojamiento: pensionados, rack de habitaciones, pagos, caja, comedor y recibos.
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[🌐 Demo](https://lacasa-de-taty-six.vercel.app) · [📂 Código](https://github.com/alejo234506/lacasa_de_taty)
+[🌐 Demo](https://lacasa-de-taty-six.vercel.app) · 🔒 Código privado (proyecto para cliente)
 
 </td>
 <td width="50%" valign="top">
