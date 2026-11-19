@@ -6,7 +6,12 @@
 
 <br/>
 
-<a href="https://factoryil.com"><img src="https://img.shields.io/badge/factoryil.com-Factory_Engineering_Logistics-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://factoryel.co"><img src="https://img.shields.io/badge/factoryel.co-Factory_EL-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://factoryil.com"><img src="https://img.shields.io/badge/factoryil.com-Factory_IL-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://cmocs.co"><img src="https://img.shields.io/badge/cmocs.co-CMOCS-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://supermandao.com"><img src="https://img.shields.io/badge/supermandao.com-Super_Mandao-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<br/>
+<a href="https://github.com/FACTORY-ENGINEERING-LOGISITICS"><img src="https://img.shields.io/badge/GitHub_Org-Factory_Engineering-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:contacto@factoryil.com"><img src="https://img.shields.io/badge/Email-contacto%40factoryil.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/alejocach1.0/"><img src="https://img.shields.io/badge/Instagram-@alejocach1.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <br/>
@@ -35,6 +40,18 @@ const alejo = {
 🔭 Desarrollo **CMOCS**, la plataforma de **Factory Engineering Logistics SAS** para gestión de flotas, GPS, talleres, nómina e integración contable con SIIGO.<br/>
 🏢 He trabajado con **Business Green**, **Factory Integrated Logistics**, **Factory Ingeniería y Logística** y **Factory Engineering Logistics SAS** *(actual)*.<br/>
 ⚡ Me gusta llevar los proyectos **de la idea al deploy**: diseño, frontend, API, base de datos y producción.
+
+---
+
+## 🏢 Empresas y plataformas
+
+| | Sitio | Qué es |
+|--|--|--|
+| 🚛 **CMOCS** | [cmocs.co](https://cmocs.co) | Plataforma de gestión de flotas y maquinaria: GPS, talleres, nómina e integración SIIGO |
+| 🏗️ **Factory EL** | [factoryel.co](https://factoryel.co) | Factory Engineering Logistics SAS: ingeniería y logística desde Barranquilla |
+| 🛢️ **Factory IL** | [factoryil.com](https://factoryil.com) | Factory Integrated Logistics: ingeniería y logística en Puerto Gaitán, Meta |
+| 🛒 **Super Mandao** | [supermandao.com](https://supermandao.com) | Próximamente en Barranquilla |
+| 🐙 **Organización GitHub** | [FACTORY-ENGINEERING-LOGISITICS](https://github.com/FACTORY-ENGINEERING-LOGISITICS) | Repositorios de Factory Engineering |
 
 ---
 
